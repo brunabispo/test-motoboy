@@ -1,4 +1,11 @@
 # Teste do Motoboy :motorcycle:
+**OBS:** 
+
+1. Do jeito que eu entendi, a porcentagem que a loja paga vem do valor do produto + o valor que cada motoboy cobra por entrega.
+2. Não ficou claro para mim como cada entrega seria distribuída a cada motoboy. Eu distribui manualmente.
+
+***
+
 Linguagem python/javascript ou outra de sua preferencia!
 
 ## Problema
@@ -32,11 +39,4 @@ Quando eu executar o script passando apenas o motoboy ou não passando nenhum mo
 - Loja 1 - 3 pedidos (PEDIDO 1 R$50, PEDIDO 2 R$50, PEDIDO 3 R$50) e paga 5% do valor pedido por entrega fora o valor fixo.
 - Loja 2 - 4 pedidos (PEDIDO 1 R$50, PEDIDO 2 R$50, PEDIDO 3 R$50, PEDIDO 4 R$50) e paga 5% do valor pedido por entrega fora o valor fixo.
 - Loja 3 - 3 pedidos (PEDIDO 1 R$50, PEDIDO 2 R$50, PEDIDO 3 R$100) e paga 15% do valor pedido por entrega fora o valor fixo.
-
-
-
-OBS: 
-
-1. Do jeito que eu entendi, a porcentagem que a loja paga vem do valor do produto + o valor que cada motoboy cobra por entrega.
-2. Não ficou claro para mim como cada entrega seria distribuída a cada motoboy. Eu distribui manualmente.
 
